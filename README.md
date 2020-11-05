@@ -3,7 +3,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Tasks to do:
+Tasks to do:
 1.	Open the file lab3_ex011.py and read the code. 
 2.	Open and read 2 files 'Eliot.txt' and 'Tolkien.txt' 
 3.	Divide the each text into several parts (chunks) each one of size wind, using the given function partition_str(). 
